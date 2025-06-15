@@ -1,4 +1,4 @@
-# ArquitecturaCoreV1
+# ArquitecturaCoreV1 - version final
 
 ## Contributing 
 1. **Fork the repository** 📚
